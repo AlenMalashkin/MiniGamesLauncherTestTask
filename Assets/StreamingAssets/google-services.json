@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505866478139",
+    "project_id": "minigameslaunchertesttask",
+    "storage_bucket": "minigameslaunchertesttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505866478139:android:92dc0911ac4c4440b2b21e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MiniGamesLauncherTestTask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQnn4eLpMR63kFDDmLysR-qbtYgz0oNeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
